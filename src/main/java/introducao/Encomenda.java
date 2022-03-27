@@ -1,3 +1,5 @@
+package introducao;
+
 public class Encomenda {
 
     public static int[] qtdadeBarras(int dispB1, int dispB5, int peso) {

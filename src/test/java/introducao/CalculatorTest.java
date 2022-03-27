@@ -1,3 +1,6 @@
+package introducao;
+
+import introducao.Calculator;
 import org.jeasy.random.EasyRandom;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
